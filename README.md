@@ -5,7 +5,7 @@ This script adds together video durations from several video codecs placed in th
 
 MediaInfoDLL must be placed in the python library for this script to work. Obtain this script from https://mediaarea.net/en/MediaInfo/Download/Windows. 
 
-To begin, place all evidence "findings" in a directory. Start the script and enter the directory. Ensure the directory ends with a \ (i.e. C:\Users\Me\Desktop\Evidence\). A compiled time will be printed in Debug in the H/M/S form.
+To begin, place all evidence "findings" in a directory. Start the script and enter the directory. Ensure the directory ends with a \ (i.e. C:\Users\Me\Desktop\Evidence\ ). A compiled time will be printed in Debug in the H/M/S form.
 
 Warning: This script may not provide time from carved videos where the duration timestamp is missing. 
 
